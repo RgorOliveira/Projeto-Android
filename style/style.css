@@ -47,7 +47,7 @@ a.externo::before {
 
 header {
     background-image: linear-gradient(var(--cor5), var(--cor4));
-    height: 150px;
+    height: 200px;
     text-align: center;
     padding-top: 40px;
 }
